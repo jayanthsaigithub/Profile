@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**raydar0803/raydar0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jayanthsaigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=raydar0803)
+![](https://komarev.com/ghpvc/?username=jayanthsaigithub)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jayanthsaigithub&count_private=true&theme=tokyonight&showicons=true)]()
 
